@@ -1,0 +1,4847 @@
+[
+  {
+    "itemId": 130200001,
+    "unitPrice": 26000,
+    "supportedDensity": 3
+  },
+  {
+    "itemId": 130200001,
+    "unitPrice": 26000,
+    "supportedDensity": 3
+  },
+  {
+    "itemId": 130200001,
+    "unitPrice": 26000,
+    "supportedDensity": 3
+  },
+  {
+    "itemId": 130200001,
+    "unitPrice": 26000,
+    "supportedDensity": 3
+  },
+  {
+    "itemId": 130200003,
+    "unitPrice": 27000,
+    "supportedDensity": 3.04
+  },
+  {
+    "itemId": 130200003,
+    "unitPrice": 27000,
+    "supportedDensity": 3.04
+  },
+  {
+    "itemId": 130200003,
+    "unitPrice": 27000,
+    "supportedDensity": 3.04
+  },
+  {
+    "itemId": 130200003,
+    "unitPrice": 27000,
+    "supportedDensity": 3.04
+  },
+  {
+    "itemId": 130200004,
+    "unitPrice": 26000,
+    "supportedDensity": 4.03
+  },
+  {
+    "itemId": 130200004,
+    "unitPrice": 26000,
+    "supportedDensity": 4.03
+  },
+  {
+    "itemId": 130200004,
+    "unitPrice": 26000,
+    "supportedDensity": 4.03
+  },
+  {
+    "itemId": 130200004,
+    "unitPrice": 26000,
+    "supportedDensity": 4.03
+  },
+  {
+    "itemId": 130200005,
+    "unitPrice": 25500,
+    "supportedDensity": 4.5
+  },
+  {
+    "itemId": 130200005,
+    "unitPrice": 25500,
+    "supportedDensity": 4.5
+  },
+  {
+    "itemId": 130200005,
+    "unitPrice": 25500,
+    "supportedDensity": 4.5
+  },
+  {
+    "itemId": 130200005,
+    "unitPrice": 25500,
+    "supportedDensity": 4.5
+  },
+  {
+    "itemId": 130200006,
+    "unitPrice": 25000,
+    "supportedDensity": 4.97
+  },
+  {
+    "itemId": 130200006,
+    "unitPrice": 25000,
+    "supportedDensity": 4.97
+  },
+  {
+    "itemId": 130200006,
+    "unitPrice": 25000,
+    "supportedDensity": 4.97
+  },
+  {
+    "itemId": 130200006,
+    "unitPrice": 25000,
+    "supportedDensity": 4.97
+  },
+  {
+    "itemId": 130200016,
+    "unitPrice": 25500,
+    "supportedDensity": 3.52
+  },
+  {
+    "itemId": 130200016,
+    "unitPrice": 25500,
+    "supportedDensity": 3.52
+  },
+  {
+    "itemId": 130200016,
+    "unitPrice": 25500,
+    "supportedDensity": 3.52
+  },
+  {
+    "itemId": 130200016,
+    "unitPrice": 25500,
+    "supportedDensity": 3.52
+  },
+  {
+    "itemId": 130200024,
+    "unitPrice": 26500,
+    "supportedDensity": 3.56
+  },
+  {
+    "itemId": 130200024,
+    "unitPrice": 26500,
+    "supportedDensity": 3.56
+  },
+  {
+    "itemId": 130200024,
+    "unitPrice": 26500,
+    "supportedDensity": 3.56
+  },
+  {
+    "itemId": 130200024,
+    "unitPrice": 26500,
+    "supportedDensity": 3.56
+  },
+  {
+    "itemId": 130200025,
+    "unitPrice": 25000,
+    "supportedDensity": 3.99
+  },
+  {
+    "itemId": 130200025,
+    "unitPrice": 25000,
+    "supportedDensity": 3.99
+  },
+  {
+    "itemId": 130200025,
+    "unitPrice": 25000,
+    "supportedDensity": 3.99
+  },
+  {
+    "itemId": 130200025,
+    "unitPrice": 25000,
+    "supportedDensity": 3.99
+  },
+  {
+    "itemId": 130200026,
+    "unitPrice": 26400,
+    "supportedDensity": 3.75
+  },
+  {
+    "itemId": 130200026,
+    "unitPrice": 26400,
+    "supportedDensity": 3.75
+  },
+  {
+    "itemId": 130200026,
+    "unitPrice": 26400,
+    "supportedDensity": 3.75
+  },
+  {
+    "itemId": 130200026,
+    "unitPrice": 26400,
+    "supportedDensity": 3.75
+  },
+  {
+    "itemId": 130200030,
+    "unitPrice": 24800,
+    "supportedDensity": 4.46
+  },
+  {
+    "itemId": 130200030,
+    "unitPrice": 24800,
+    "supportedDensity": 4.46
+  },
+  {
+    "itemId": 130200030,
+    "unitPrice": 24800,
+    "supportedDensity": 4.46
+  },
+  {
+    "itemId": 130200030,
+    "unitPrice": 24800,
+    "supportedDensity": 4.46
+  },
+  {
+    "itemId": 130200031,
+    "unitPrice": 26000,
+    "supportedDensity": 4.31
+  },
+  {
+    "itemId": 130200031,
+    "unitPrice": 26000,
+    "supportedDensity": 4.31
+  },
+  {
+    "itemId": 130200031,
+    "unitPrice": 26000,
+    "supportedDensity": 4.31
+  },
+  {
+    "itemId": 130200031,
+    "unitPrice": 26000,
+    "supportedDensity": 4.31
+  },
+  {
+    "itemId": 130200032,
+    "unitPrice": 25300,
+    "supportedDensity": 4.69
+  },
+  {
+    "itemId": 130200032,
+    "unitPrice": 25300,
+    "supportedDensity": 4.69
+  },
+  {
+    "itemId": 130200032,
+    "unitPrice": 25300,
+    "supportedDensity": 4.69
+  },
+  {
+    "itemId": 130200032,
+    "unitPrice": 25300,
+    "supportedDensity": 4.69
+  },
+  {
+    "itemId": 130200033,
+    "unitPrice": 25800,
+    "supportedDensity": 4.5
+  },
+  {
+    "itemId": 130200033,
+    "unitPrice": 25800,
+    "supportedDensity": 4.5
+  },
+  {
+    "itemId": 130200033,
+    "unitPrice": 25800,
+    "supportedDensity": 4.5
+  },
+  {
+    "itemId": 130200033,
+    "unitPrice": 25800,
+    "supportedDensity": 4.5
+  },
+  {
+    "itemId": 130200039,
+    "unitPrice": 27500,
+    "supportedDensity": 4.04
+  },
+  {
+    "itemId": 130200039,
+    "unitPrice": 27500,
+    "supportedDensity": 4.04
+  },
+  {
+    "itemId": 130200039,
+    "unitPrice": 27500,
+    "supportedDensity": 4.04
+  },
+  {
+    "itemId": 130200039,
+    "unitPrice": 27500,
+    "supportedDensity": 4.04
+  },
+  {
+    "itemId": 130200046,
+    "unitPrice": 29000,
+    "supportedDensity": 3.1
+  },
+  {
+    "itemId": 130200046,
+    "unitPrice": 29000,
+    "supportedDensity": 3.1
+  },
+  {
+    "itemId": 130200046,
+    "unitPrice": 29000,
+    "supportedDensity": 3.1
+  },
+  {
+    "itemId": 130200046,
+    "unitPrice": 29000,
+    "supportedDensity": 3.1
+  },
+  {
+    "itemId": 130200047,
+    "unitPrice": 28000,
+    "supportedDensity": 3.57
+  },
+  {
+    "itemId": 130200047,
+    "unitPrice": 28000,
+    "supportedDensity": 3.57
+  },
+  {
+    "itemId": 130200047,
+    "unitPrice": 28000,
+    "supportedDensity": 3.57
+  },
+  {
+    "itemId": 130200047,
+    "unitPrice": 28000,
+    "supportedDensity": 3.57
+  },
+  {
+    "itemId": 130200048,
+    "unitPrice": 27800,
+    "supportedDensity": 4.04
+  },
+  {
+    "itemId": 130200048,
+    "unitPrice": 27800,
+    "supportedDensity": 4.04
+  },
+  {
+    "itemId": 130200048,
+    "unitPrice": 27800,
+    "supportedDensity": 4.04
+  },
+  {
+    "itemId": 130200048,
+    "unitPrice": 27800,
+    "supportedDensity": 4.04
+  },
+  {
+    "itemId": 130200049,
+    "unitPrice": 27000,
+    "supportedDensity": 4.51
+  },
+  {
+    "itemId": 130200049,
+    "unitPrice": 27000,
+    "supportedDensity": 4.51
+  },
+  {
+    "itemId": 130200049,
+    "unitPrice": 27000,
+    "supportedDensity": 4.51
+  },
+  {
+    "itemId": 130200049,
+    "unitPrice": 27000,
+    "supportedDensity": 4.51
+  },
+  {
+    "itemId": 130200050,
+    "unitPrice": 26500,
+    "supportedDensity": 5.46
+  },
+  {
+    "itemId": 130200050,
+    "unitPrice": 26500,
+    "supportedDensity": 5.46
+  },
+  {
+    "itemId": 130200050,
+    "unitPrice": 26500,
+    "supportedDensity": 5.46
+  },
+  {
+    "itemId": 130200050,
+    "unitPrice": 26500,
+    "supportedDensity": 5.46
+  },
+  {
+    "itemId": 130200051,
+    "unitPrice": 25000,
+    "supportedDensity": 6.86
+  },
+  {
+    "itemId": 130200051,
+    "unitPrice": 25000,
+    "supportedDensity": 6.86
+  },
+  {
+    "itemId": 130200051,
+    "unitPrice": 25000,
+    "supportedDensity": 6.86
+  },
+  {
+    "itemId": 130200051,
+    "unitPrice": 25000,
+    "supportedDensity": 6.86
+  },
+  {
+    "itemId": 130200052,
+    "unitPrice": 25000,
+    "supportedDensity": 9.21
+  },
+  {
+    "itemId": 130200052,
+    "unitPrice": 25000,
+    "supportedDensity": 9.21
+  },
+  {
+    "itemId": 130200052,
+    "unitPrice": 25000,
+    "supportedDensity": 9.21
+  },
+  {
+    "itemId": 130200052,
+    "unitPrice": 25000,
+    "supportedDensity": 9.21
+  },
+  {
+    "itemId": 130200061,
+    "unitPrice": 28300,
+    "supportedDensity": 2.06
+  },
+  {
+    "itemId": 130200061,
+    "unitPrice": 28300,
+    "supportedDensity": 2.06
+  },
+  {
+    "itemId": 130200061,
+    "unitPrice": 28300,
+    "supportedDensity": 2.06
+  },
+  {
+    "itemId": 130200061,
+    "unitPrice": 28300,
+    "supportedDensity": 2.06
+  },
+  {
+    "itemId": 130200092,
+    "unitPrice": 26300,
+    "supportedDensity": 4.03
+  },
+  {
+    "itemId": 130200092,
+    "unitPrice": 26300,
+    "supportedDensity": 4.03
+  },
+  {
+    "itemId": 130200092,
+    "unitPrice": 26300,
+    "supportedDensity": 4.03
+  },
+  {
+    "itemId": 130200092,
+    "unitPrice": 26300,
+    "supportedDensity": 4.03
+  },
+  {
+    "itemId": 130200093,
+    "unitPrice": 25300,
+    "supportedDensity": 4.97
+  },
+  {
+    "itemId": 130200093,
+    "unitPrice": 25300,
+    "supportedDensity": 4.97
+  },
+  {
+    "itemId": 130200093,
+    "unitPrice": 25300,
+    "supportedDensity": 4.97
+  },
+  {
+    "itemId": 130200093,
+    "unitPrice": 25300,
+    "supportedDensity": 4.97
+  },
+  {
+    "itemId": 130200103,
+    "unitPrice": 25300,
+    "supportedDensity": 3.99
+  },
+  {
+    "itemId": 130200103,
+    "unitPrice": 25300,
+    "supportedDensity": 3.99
+  },
+  {
+    "itemId": 130200103,
+    "unitPrice": 25300,
+    "supportedDensity": 3.99
+  },
+  {
+    "itemId": 130200103,
+    "unitPrice": 25300,
+    "supportedDensity": 3.99
+  },
+  {
+    "itemId": 130200104,
+    "unitPrice": 25300,
+    "supportedDensity": 3.99
+  },
+  {
+    "itemId": 130200104,
+    "unitPrice": 25300,
+    "supportedDensity": 3.99
+  },
+  {
+    "itemId": 130200104,
+    "unitPrice": 25300,
+    "supportedDensity": 3.99
+  },
+  {
+    "itemId": 130200104,
+    "unitPrice": 25300,
+    "supportedDensity": 3.99
+  },
+  {
+    "itemId": 130200105,
+    "unitPrice": 24000,
+    "supportedDensity": 6.91
+  },
+  {
+    "itemId": 130200105,
+    "unitPrice": 24000,
+    "supportedDensity": 6.91
+  },
+  {
+    "itemId": 130200105,
+    "unitPrice": 24000,
+    "supportedDensity": 6.91
+  },
+  {
+    "itemId": 130200105,
+    "unitPrice": 24000,
+    "supportedDensity": 6.91
+  },
+  {
+    "itemId": 130200106,
+    "unitPrice": 26300,
+    "supportedDensity": 4.03
+  },
+  {
+    "itemId": 130200106,
+    "unitPrice": 26300,
+    "supportedDensity": 4.03
+  },
+  {
+    "itemId": 130200106,
+    "unitPrice": 26300,
+    "supportedDensity": 4.03
+  },
+  {
+    "itemId": 130200106,
+    "unitPrice": 26300,
+    "supportedDensity": 4.03
+  },
+  {
+    "itemId": 130200107,
+    "unitPrice": 25800,
+    "supportedDensity": 4.5
+  },
+  {
+    "itemId": 130200107,
+    "unitPrice": 25800,
+    "supportedDensity": 4.5
+  },
+  {
+    "itemId": 130200107,
+    "unitPrice": 25800,
+    "supportedDensity": 4.5
+  },
+  {
+    "itemId": 130200107,
+    "unitPrice": 25800,
+    "supportedDensity": 4.5
+  },
+  {
+    "itemId": 130200108,
+    "unitPrice": 26500,
+    "supportedDensity": 4.98
+  },
+  {
+    "itemId": 130200108,
+    "unitPrice": 26500,
+    "supportedDensity": 4.98
+  },
+  {
+    "itemId": 130200108,
+    "unitPrice": 26500,
+    "supportedDensity": 4.98
+  },
+  {
+    "itemId": 130200108,
+    "unitPrice": 26500,
+    "supportedDensity": 4.98
+  },
+  {
+    "itemId": 130200110,
+    "unitPrice": 27300,
+    "supportedDensity": 2.25
+  },
+  {
+    "itemId": 130200110,
+    "unitPrice": 27300,
+    "supportedDensity": 2.25
+  },
+  {
+    "itemId": 130200110,
+    "unitPrice": 27300,
+    "supportedDensity": 2.25
+  },
+  {
+    "itemId": 130200110,
+    "unitPrice": 27300,
+    "supportedDensity": 2.25
+  },
+  {
+    "itemId": 130200112,
+    "unitPrice": 26500,
+    "supportedDensity": 2.53
+  },
+  {
+    "itemId": 130200112,
+    "unitPrice": 26500,
+    "supportedDensity": 2.53
+  },
+  {
+    "itemId": 130200112,
+    "unitPrice": 26500,
+    "supportedDensity": 2.53
+  },
+  {
+    "itemId": 130200112,
+    "unitPrice": 26500,
+    "supportedDensity": 2.53
+  },
+  {
+    "itemId": 130200155,
+    "unitPrice": 27500,
+    "supportedDensity": 2.11
+  },
+  {
+    "itemId": 130200155,
+    "unitPrice": 27500,
+    "supportedDensity": 2.11
+  },
+  {
+    "itemId": 130200155,
+    "unitPrice": 27500,
+    "supportedDensity": 2.11
+  },
+  {
+    "itemId": 130200155,
+    "unitPrice": 27500,
+    "supportedDensity": 2.11
+  },
+  {
+    "itemId": 130200166,
+    "unitPrice": 27600,
+    "supportedDensity": 2.25
+  },
+  {
+    "itemId": 130200166,
+    "unitPrice": 27600,
+    "supportedDensity": 2.25
+  },
+  {
+    "itemId": 130200166,
+    "unitPrice": 27600,
+    "supportedDensity": 2.25
+  },
+  {
+    "itemId": 130200166,
+    "unitPrice": 27600,
+    "supportedDensity": 2.25
+  },
+  {
+    "itemId": 130200175,
+    "unitPrice": 28000,
+    "supportedDensity": 2.57
+  },
+  {
+    "itemId": 130200175,
+    "unitPrice": 28000,
+    "supportedDensity": 2.57
+  },
+  {
+    "itemId": 130200175,
+    "unitPrice": 28000,
+    "supportedDensity": 2.57
+  },
+  {
+    "itemId": 130200175,
+    "unitPrice": 28000,
+    "supportedDensity": 2.57
+  },
+  {
+    "itemId": 130200185,
+    "unitPrice": 25000,
+    "supportedDensity": 5.44
+  },
+  {
+    "itemId": 130200185,
+    "unitPrice": 25000,
+    "supportedDensity": 5.44
+  },
+  {
+    "itemId": 130200185,
+    "unitPrice": 25000,
+    "supportedDensity": 5.44
+  },
+  {
+    "itemId": 130200185,
+    "unitPrice": 25000,
+    "supportedDensity": 5.44
+  },
+  {
+    "itemId": 130200199,
+    "unitPrice": 28500,
+    "supportedDensity": 3.04
+  },
+  {
+    "itemId": 130200199,
+    "unitPrice": 28500,
+    "supportedDensity": 3.04
+  },
+  {
+    "itemId": 130200199,
+    "unitPrice": 28500,
+    "supportedDensity": 3.04
+  },
+  {
+    "itemId": 130200199,
+    "unitPrice": 28500,
+    "supportedDensity": 3.04
+  },
+  {
+    "itemId": 130200200,
+    "unitPrice": 27500,
+    "supportedDensity": 3.56
+  },
+  {
+    "itemId": 130200200,
+    "unitPrice": 27500,
+    "supportedDensity": 3.56
+  },
+  {
+    "itemId": 130200200,
+    "unitPrice": 27500,
+    "supportedDensity": 3.56
+  },
+  {
+    "itemId": 130200200,
+    "unitPrice": 27500,
+    "supportedDensity": 3.56
+  },
+  {
+    "itemId": 130200201,
+    "unitPrice": 27000,
+    "supportedDensity": 4.03
+  },
+  {
+    "itemId": 130200201,
+    "unitPrice": 27000,
+    "supportedDensity": 4.03
+  },
+  {
+    "itemId": 130200201,
+    "unitPrice": 27000,
+    "supportedDensity": 4.03
+  },
+  {
+    "itemId": 130200201,
+    "unitPrice": 27000,
+    "supportedDensity": 4.03
+  },
+  {
+    "itemId": 130200203,
+    "unitPrice": 26500,
+    "supportedDensity": 4.5
+  },
+  {
+    "itemId": 130200203,
+    "unitPrice": 26500,
+    "supportedDensity": 4.5
+  },
+  {
+    "itemId": 130200203,
+    "unitPrice": 26500,
+    "supportedDensity": 4.5
+  },
+  {
+    "itemId": 130200203,
+    "unitPrice": 26500,
+    "supportedDensity": 4.5
+  },
+  {
+    "itemId": 130200204,
+    "unitPrice": 26000,
+    "supportedDensity": 4.97
+  },
+  {
+    "itemId": 130200204,
+    "unitPrice": 26000,
+    "supportedDensity": 4.97
+  },
+  {
+    "itemId": 130200204,
+    "unitPrice": 26000,
+    "supportedDensity": 4.97
+  },
+  {
+    "itemId": 130200204,
+    "unitPrice": 26000,
+    "supportedDensity": 4.97
+  },
+  {
+    "itemId": 130200205,
+    "unitPrice": 26000,
+    "supportedDensity": 5.44
+  },
+  {
+    "itemId": 130200205,
+    "unitPrice": 26000,
+    "supportedDensity": 5.44
+  },
+  {
+    "itemId": 130200205,
+    "unitPrice": 26000,
+    "supportedDensity": 5.44
+  },
+  {
+    "itemId": 130200205,
+    "unitPrice": 26000,
+    "supportedDensity": 5.44
+  },
+  {
+    "itemId": 130200208,
+    "unitPrice": 26000,
+    "supportedDensity": 3
+  },
+  {
+    "itemId": 130200208,
+    "unitPrice": 26000,
+    "supportedDensity": 3
+  },
+  {
+    "itemId": 130200208,
+    "unitPrice": 26000,
+    "supportedDensity": 3
+  },
+  {
+    "itemId": 130200208,
+    "unitPrice": 26000,
+    "supportedDensity": 3
+  },
+  {
+    "itemId": 130200216,
+    "unitPrice": 27500,
+    "supportedDensity": 4.04
+  },
+  {
+    "itemId": 130200216,
+    "unitPrice": 27500,
+    "supportedDensity": 4.04
+  },
+  {
+    "itemId": 130200216,
+    "unitPrice": 27500,
+    "supportedDensity": 4.04
+  },
+  {
+    "itemId": 130200216,
+    "unitPrice": 27500,
+    "supportedDensity": 4.04
+  },
+  {
+    "itemId": 130200217,
+    "unitPrice": 27000,
+    "supportedDensity": 4.51
+  },
+  {
+    "itemId": 130200217,
+    "unitPrice": 27000,
+    "supportedDensity": 4.51
+  },
+  {
+    "itemId": 130200217,
+    "unitPrice": 27000,
+    "supportedDensity": 4.51
+  },
+  {
+    "itemId": 130200217,
+    "unitPrice": 27000,
+    "supportedDensity": 4.51
+  },
+  {
+    "itemId": 130400001,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400001,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400001,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400001,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400002,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400002,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400002,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400002,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400003,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400003,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400003,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400003,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400004,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400004,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400004,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400004,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400005,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400005,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400005,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400005,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400006,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400006,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400006,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400006,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400007,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400007,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400007,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400007,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400008,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400008,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400008,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400008,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400009,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400009,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400009,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400009,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400010,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400010,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400010,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400010,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400011,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400011,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400011,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400011,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400012,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400012,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400012,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400012,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400013,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400013,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400013,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400013,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400014,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400014,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400014,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400014,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400015,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400015,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400015,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400015,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400016,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400016,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400016,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400016,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400017,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400017,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400017,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400017,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400018,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400018,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400018,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400018,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400019,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400019,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400019,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400019,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400020,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400020,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400020,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400020,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400021,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400021,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400021,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400021,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400022,
+    "unitPrice": 28300,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400022,
+    "unitPrice": 28300,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400022,
+    "unitPrice": 28300,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400022,
+    "unitPrice": 28300,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400023,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400023,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400023,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400023,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400024,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400024,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400024,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400024,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400025,
+    "unitPrice": 28300,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400025,
+    "unitPrice": 28300,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400025,
+    "unitPrice": 28300,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400025,
+    "unitPrice": 28300,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400026,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400026,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400026,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400026,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400027,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400027,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400027,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400027,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400028,
+    "unitPrice": 28300,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400028,
+    "unitPrice": 28300,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400028,
+    "unitPrice": 28300,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400028,
+    "unitPrice": 28300,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400029,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400029,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400029,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400029,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400030,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400030,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400030,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400030,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400031,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400031,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400031,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400031,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400032,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400032,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400032,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400032,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400033,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400033,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400033,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400033,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400034,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400034,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400034,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400034,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400035,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400035,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400035,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400035,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400037,
+    "unitPrice": 32000,
+    "supportedDensity": 2.82
+  },
+  {
+    "itemId": 130400037,
+    "unitPrice": 32000,
+    "supportedDensity": 2.82
+  },
+  {
+    "itemId": 130400037,
+    "unitPrice": 32000,
+    "supportedDensity": 2.82
+  },
+  {
+    "itemId": 130400037,
+    "unitPrice": 32000,
+    "supportedDensity": 2.82
+  },
+  {
+    "itemId": 130400038,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400038,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400038,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400038,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400039,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400039,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400039,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400039,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400040,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400040,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400040,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400040,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400042,
+    "unitPrice": 32000,
+    "supportedDensity": 2.82
+  },
+  {
+    "itemId": 130400042,
+    "unitPrice": 32000,
+    "supportedDensity": 2.82
+  },
+  {
+    "itemId": 130400042,
+    "unitPrice": 32000,
+    "supportedDensity": 2.82
+  },
+  {
+    "itemId": 130400042,
+    "unitPrice": 32000,
+    "supportedDensity": 2.82
+  },
+  {
+    "itemId": 130400043,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400043,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400043,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400043,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400044,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400044,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400044,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400044,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400045,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400045,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400045,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400045,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400047,
+    "unitPrice": 32000,
+    "supportedDensity": 2.82
+  },
+  {
+    "itemId": 130400047,
+    "unitPrice": 32000,
+    "supportedDensity": 2.82
+  },
+  {
+    "itemId": 130400047,
+    "unitPrice": 32000,
+    "supportedDensity": 2.82
+  },
+  {
+    "itemId": 130400047,
+    "unitPrice": 32000,
+    "supportedDensity": 2.82
+  },
+  {
+    "itemId": 130400048,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400048,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400048,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400048,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400049,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400049,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400049,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400049,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400050,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400050,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400050,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400050,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400051,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400051,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400051,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400051,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400052,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400052,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400052,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400052,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400053,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400053,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400053,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400053,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400054,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400054,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400054,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400054,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400055,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400055,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400055,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400055,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400056,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400056,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400056,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400056,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400057,
+    "unitPrice": 31300,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400057,
+    "unitPrice": 31300,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400057,
+    "unitPrice": 31300,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400057,
+    "unitPrice": 31300,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400058,
+    "unitPrice": 30800,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400058,
+    "unitPrice": 30800,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400058,
+    "unitPrice": 30800,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400058,
+    "unitPrice": 30800,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400059,
+    "unitPrice": 29800,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400059,
+    "unitPrice": 29800,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400059,
+    "unitPrice": 29800,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400059,
+    "unitPrice": 29800,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400060,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400060,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400060,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400060,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400061,
+    "unitPrice": 32000,
+    "supportedDensity": 2.82
+  },
+  {
+    "itemId": 130400061,
+    "unitPrice": 32000,
+    "supportedDensity": 2.82
+  },
+  {
+    "itemId": 130400061,
+    "unitPrice": 32000,
+    "supportedDensity": 2.82
+  },
+  {
+    "itemId": 130400061,
+    "unitPrice": 32000,
+    "supportedDensity": 2.82
+  },
+  {
+    "itemId": 130400062,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400062,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400062,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400062,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400063,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400063,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400063,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400063,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400064,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400064,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400064,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400064,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400065,
+    "unitPrice": 29000,
+    "supportedDensity": 4.75
+  },
+  {
+    "itemId": 130400065,
+    "unitPrice": 29000,
+    "supportedDensity": 4.75
+  },
+  {
+    "itemId": 130400065,
+    "unitPrice": 29000,
+    "supportedDensity": 4.75
+  },
+  {
+    "itemId": 130400065,
+    "unitPrice": 29000,
+    "supportedDensity": 4.75
+  },
+  {
+    "itemId": 130400066,
+    "unitPrice": 32000,
+    "supportedDensity": 2.82
+  },
+  {
+    "itemId": 130400066,
+    "unitPrice": 32000,
+    "supportedDensity": 2.82
+  },
+  {
+    "itemId": 130400066,
+    "unitPrice": 32000,
+    "supportedDensity": 2.82
+  },
+  {
+    "itemId": 130400066,
+    "unitPrice": 32000,
+    "supportedDensity": 2.82
+  },
+  {
+    "itemId": 130400067,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400067,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400067,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400067,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400068,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400068,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400068,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400068,
+    "unitPrice": 30500,
+    "supportedDensity": 3.81
+  },
+  {
+    "itemId": 130400069,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400069,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400069,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400069,
+    "unitPrice": 29500,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400070,
+    "unitPrice": 29000,
+    "supportedDensity": 4.75
+  },
+  {
+    "itemId": 130400070,
+    "unitPrice": 29000,
+    "supportedDensity": 4.75
+  },
+  {
+    "itemId": 130400070,
+    "unitPrice": 29000,
+    "supportedDensity": 4.75
+  },
+  {
+    "itemId": 130400070,
+    "unitPrice": 29000,
+    "supportedDensity": 4.75
+  },
+  {
+    "itemId": 130400071,
+    "unitPrice": 29800,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400071,
+    "unitPrice": 29800,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400071,
+    "unitPrice": 29800,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400071,
+    "unitPrice": 29800,
+    "supportedDensity": 4.28
+  },
+  {
+    "itemId": 130400072,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400072,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400072,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400072,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400073,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400073,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400073,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400073,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400074,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400074,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400074,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400074,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400075,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400075,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400075,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400075,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400076,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400076,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400076,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400076,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400077,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400077,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400077,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400077,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400078,
+    "unitPrice": 34000,
+    "supportedDensity": 3.25
+  },
+  {
+    "itemId": 130400078,
+    "unitPrice": 34000,
+    "supportedDensity": 3.25
+  },
+  {
+    "itemId": 130400078,
+    "unitPrice": 34000,
+    "supportedDensity": 3.25
+  },
+  {
+    "itemId": 130400078,
+    "unitPrice": 34000,
+    "supportedDensity": 3.25
+  },
+  {
+    "itemId": 130400080,
+    "unitPrice": 29000,
+    "supportedDensity": 4.75
+  },
+  {
+    "itemId": 130400080,
+    "unitPrice": 29000,
+    "supportedDensity": 4.75
+  },
+  {
+    "itemId": 130400080,
+    "unitPrice": 29000,
+    "supportedDensity": 4.75
+  },
+  {
+    "itemId": 130400080,
+    "unitPrice": 29000,
+    "supportedDensity": 4.75
+  },
+  {
+    "itemId": 130400081,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400081,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400081,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400081,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400082,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400082,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400082,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400082,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400083,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400083,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400083,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400083,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400084,
+    "unitPrice": 31500,
+    "supportedDensity": 2.08
+  },
+  {
+    "itemId": 130400084,
+    "unitPrice": 31500,
+    "supportedDensity": 2.08
+  },
+  {
+    "itemId": 130400084,
+    "unitPrice": 31500,
+    "supportedDensity": 2.08
+  },
+  {
+    "itemId": 130400084,
+    "unitPrice": 31500,
+    "supportedDensity": 2.08
+  },
+  {
+    "itemId": 130400085,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400085,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400085,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400085,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400086,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400086,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400086,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400086,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400087,
+    "unitPrice": 32500,
+    "supportedDensity": 4.2
+  },
+  {
+    "itemId": 130400087,
+    "unitPrice": 32500,
+    "supportedDensity": 4.2
+  },
+  {
+    "itemId": 130400087,
+    "unitPrice": 32500,
+    "supportedDensity": 4.2
+  },
+  {
+    "itemId": 130400087,
+    "unitPrice": 32500,
+    "supportedDensity": 4.2
+  },
+  {
+    "itemId": 130400088,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400088,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400088,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400088,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400089,
+    "unitPrice": 33500,
+    "supportedDensity": 3.73
+  },
+  {
+    "itemId": 130400089,
+    "unitPrice": 33500,
+    "supportedDensity": 3.73
+  },
+  {
+    "itemId": 130400089,
+    "unitPrice": 33500,
+    "supportedDensity": 3.73
+  },
+  {
+    "itemId": 130400089,
+    "unitPrice": 33500,
+    "supportedDensity": 3.73
+  },
+  {
+    "itemId": 130400090,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400090,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400090,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400090,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400091,
+    "unitPrice": 31500,
+    "supportedDensity": 2.08
+  },
+  {
+    "itemId": 130400091,
+    "unitPrice": 31500,
+    "supportedDensity": 2.08
+  },
+  {
+    "itemId": 130400091,
+    "unitPrice": 31500,
+    "supportedDensity": 2.08
+  },
+  {
+    "itemId": 130400091,
+    "unitPrice": 31500,
+    "supportedDensity": 2.08
+  },
+  {
+    "itemId": 130400092,
+    "unitPrice": 31500,
+    "supportedDensity": 2.08
+  },
+  {
+    "itemId": 130400092,
+    "unitPrice": 31500,
+    "supportedDensity": 2.08
+  },
+  {
+    "itemId": 130400092,
+    "unitPrice": 31500,
+    "supportedDensity": 2.08
+  },
+  {
+    "itemId": 130400092,
+    "unitPrice": 31500,
+    "supportedDensity": 2.08
+  },
+  {
+    "itemId": 130400093,
+    "unitPrice": 31500,
+    "supportedDensity": 2.08
+  },
+  {
+    "itemId": 130400093,
+    "unitPrice": 31500,
+    "supportedDensity": 2.08
+  },
+  {
+    "itemId": 130400093,
+    "unitPrice": 31500,
+    "supportedDensity": 2.08
+  },
+  {
+    "itemId": 130400093,
+    "unitPrice": 31500,
+    "supportedDensity": 2.08
+  },
+  {
+    "itemId": 130400094,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400094,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400094,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400094,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400101,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400101,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400101,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400101,
+    "unitPrice": 31000,
+    "supportedDensity": 3.34
+  },
+  {
+    "itemId": 130400102,
+    "unitPrice": 33800,
+    "supportedDensity": 3.73
+  },
+  {
+    "itemId": 130400102,
+    "unitPrice": 33800,
+    "supportedDensity": 3.73
+  },
+  {
+    "itemId": 130400102,
+    "unitPrice": 33800,
+    "supportedDensity": 3.73
+  },
+  {
+    "itemId": 130400102,
+    "unitPrice": 33800,
+    "supportedDensity": 3.73
+  },
+  {
+    "itemId": 130400103,
+    "unitPrice": 32500,
+    "supportedDensity": 4.2
+  },
+  {
+    "itemId": 130400103,
+    "unitPrice": 32500,
+    "supportedDensity": 4.2
+  },
+  {
+    "itemId": 130400103,
+    "unitPrice": 32500,
+    "supportedDensity": 4.2
+  },
+  {
+    "itemId": 130400103,
+    "unitPrice": 32500,
+    "supportedDensity": 4.2
+  },
+  {
+    "itemId": 130400104,
+    "unitPrice": 32500,
+    "supportedDensity": 4.2
+  },
+  {
+    "itemId": 130400104,
+    "unitPrice": 32500,
+    "supportedDensity": 4.2
+  },
+  {
+    "itemId": 130400104,
+    "unitPrice": 32500,
+    "supportedDensity": 4.2
+  },
+  {
+    "itemId": 130400104,
+    "unitPrice": 32500,
+    "supportedDensity": 4.2
+  },
+  {
+    "itemId": 130400105,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400105,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400105,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400105,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400106,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400106,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400106,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400106,
+    "unitPrice": 27300,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400117,
+    "unitPrice": 26500,
+    "supportedDensity": 5.42
+  },
+  {
+    "itemId": 130400117,
+    "unitPrice": 26500,
+    "supportedDensity": 5.42
+  },
+  {
+    "itemId": 130400117,
+    "unitPrice": 26500,
+    "supportedDensity": 5.42
+  },
+  {
+    "itemId": 130400117,
+    "unitPrice": 26500,
+    "supportedDensity": 5.42
+  },
+  {
+    "itemId": 130400118,
+    "unitPrice": 26500,
+    "supportedDensity": 4.95
+  },
+  {
+    "itemId": 130400118,
+    "unitPrice": 26500,
+    "supportedDensity": 4.95
+  },
+  {
+    "itemId": 130400118,
+    "unitPrice": 26500,
+    "supportedDensity": 4.95
+  },
+  {
+    "itemId": 130400118,
+    "unitPrice": 26500,
+    "supportedDensity": 4.95
+  },
+  {
+    "itemId": 130400119,
+    "unitPrice": 28300,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400119,
+    "unitPrice": 28300,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400119,
+    "unitPrice": 28300,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400119,
+    "unitPrice": 28300,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400128,
+    "unitPrice": 31500,
+    "supportedDensity": 4.67
+  },
+  {
+    "itemId": 130400128,
+    "unitPrice": 31500,
+    "supportedDensity": 4.67
+  },
+  {
+    "itemId": 130400128,
+    "unitPrice": 31500,
+    "supportedDensity": 4.67
+  },
+  {
+    "itemId": 130400128,
+    "unitPrice": 31500,
+    "supportedDensity": 4.67
+  },
+  {
+    "itemId": 130400129,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400129,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400129,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400129,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400135,
+    "unitPrice": 30300,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400135,
+    "unitPrice": 30300,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400135,
+    "unitPrice": 30300,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400135,
+    "unitPrice": 30300,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400136,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400136,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400136,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400136,
+    "unitPrice": 27800,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400152,
+    "unitPrice": 28300,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400152,
+    "unitPrice": 28300,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400152,
+    "unitPrice": 28300,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400152,
+    "unitPrice": 28300,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400153,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400153,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400153,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400153,
+    "unitPrice": 30000,
+    "supportedDensity": 2.55
+  },
+  {
+    "itemId": 130400154,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400154,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400154,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400154,
+    "unitPrice": 29000,
+    "supportedDensity": 3.02
+  },
+  {
+    "itemId": 130400155,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400155,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400155,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400155,
+    "unitPrice": 28000,
+    "supportedDensity": 3.54
+  },
+  {
+    "itemId": 130400156,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400156,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400156,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400156,
+    "unitPrice": 27500,
+    "supportedDensity": 4.01
+  },
+  {
+    "itemId": 130400157,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400157,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400157,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 130400157,
+    "unitPrice": 27000,
+    "supportedDensity": 4.48
+  },
+  {
+    "itemId": 12004310126200,
+    "unitPrice": 20000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12004310126200,
+    "unitPrice": 20000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12005310099802,
+    "unitPrice": 15000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12005310099802,
+    "unitPrice": 15000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12009410039500,
+    "unitPrice": 15600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12009410039500,
+    "unitPrice": 15600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12101310088101,
+    "unitPrice": 12000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12101310088101,
+    "unitPrice": 12000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12103310011501,
+    "unitPrice": 16200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12103310011501,
+    "unitPrice": 16200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12103310011504,
+    "unitPrice": 11000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12103310011504,
+    "unitPrice": 11000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12104310005701,
+    "unitPrice": 12800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12104310005701,
+    "unitPrice": 12800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12104310034600,
+    "unitPrice": 18000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12104310034600,
+    "unitPrice": 18000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12104310069501,
+    "unitPrice": 17500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12104310069501,
+    "unitPrice": 17500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12104310135100,
+    "unitPrice": 11700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12104310135100,
+    "unitPrice": 11700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12104410061602,
+    "unitPrice": 12700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12104410061602,
+    "unitPrice": 12700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12104410062401,
+    "unitPrice": 18600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12104410062401,
+    "unitPrice": 18600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12104410064401,
+    "unitPrice": 19100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12104410064401,
+    "unitPrice": 19100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12104410064802,
+    "unitPrice": 12700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12104410064802,
+    "unitPrice": 12700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12104410068501,
+    "unitPrice": 17700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12104410068501,
+    "unitPrice": 17700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12105310096805,
+    "unitPrice": 15100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12105310096805,
+    "unitPrice": 15100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12105410043901,
+    "unitPrice": 14200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12105410043901,
+    "unitPrice": 14200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12105410044301,
+    "unitPrice": 13400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12105410044301,
+    "unitPrice": 13400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12105410045302,
+    "unitPrice": 12300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12105410045302,
+    "unitPrice": 12300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12105410048801,
+    "unitPrice": 12600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12105410048801,
+    "unitPrice": 12600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12105410048901,
+    "unitPrice": 18900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12105410048901,
+    "unitPrice": 18900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12105410049002,
+    "unitPrice": 18300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12105410049002,
+    "unitPrice": 18300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12105410049101,
+    "unitPrice": 11500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12105410049101,
+    "unitPrice": 11500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12105410055102,
+    "unitPrice": 13100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12105410055102,
+    "unitPrice": 13100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106310019006,
+    "unitPrice": 19900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106310019006,
+    "unitPrice": 19900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106310019608,
+    "unitPrice": 16000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106310019608,
+    "unitPrice": 16000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106310023302,
+    "unitPrice": 18100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106310023302,
+    "unitPrice": 18100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106310035500,
+    "unitPrice": 14800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106310035500,
+    "unitPrice": 14800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106310064701,
+    "unitPrice": 12700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106310064701,
+    "unitPrice": 12700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106310104101,
+    "unitPrice": 17200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106310104101,
+    "unitPrice": 17200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106410000401,
+    "unitPrice": 16400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106410000401,
+    "unitPrice": 16400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106410001601,
+    "unitPrice": 14300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106410001601,
+    "unitPrice": 14300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106410001703,
+    "unitPrice": 16900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106410001703,
+    "unitPrice": 16900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106410003601,
+    "unitPrice": 15900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106410003601,
+    "unitPrice": 15900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106410005801,
+    "unitPrice": 14600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106410005801,
+    "unitPrice": 14600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106410011602,
+    "unitPrice": 14800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106410011602,
+    "unitPrice": 14800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106410022501,
+    "unitPrice": 12000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106410022501,
+    "unitPrice": 12000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106410025603,
+    "unitPrice": 15100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106410025603,
+    "unitPrice": 15100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106410052901,
+    "unitPrice": 11600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12106410052901,
+    "unitPrice": 11600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12108310043402,
+    "unitPrice": 15300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12108310043402,
+    "unitPrice": 15300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12108310065001,
+    "unitPrice": 12700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12108310065001,
+    "unitPrice": 12700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12108310075200,
+    "unitPrice": 15100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12108310075200,
+    "unitPrice": 15100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12108410000402,
+    "unitPrice": 12700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12108410000402,
+    "unitPrice": 12700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12108410008902,
+    "unitPrice": 16200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12108410008902,
+    "unitPrice": 16200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12108410009701,
+    "unitPrice": 10000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12108410009701,
+    "unitPrice": 10000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12109310030101,
+    "unitPrice": 17900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12109310030101,
+    "unitPrice": 17900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12109310032301,
+    "unitPrice": 17800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12109310032301,
+    "unitPrice": 17800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310000401,
+    "unitPrice": 19600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310000401,
+    "unitPrice": 19600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310000801,
+    "unitPrice": 11000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310000801,
+    "unitPrice": 11000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310001401,
+    "unitPrice": 19600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310001401,
+    "unitPrice": 19600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310001501,
+    "unitPrice": 16700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310001501,
+    "unitPrice": 16700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310002701,
+    "unitPrice": 17800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310002701,
+    "unitPrice": 17800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310002801,
+    "unitPrice": 19400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310002801,
+    "unitPrice": 19400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310003401,
+    "unitPrice": 14700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310003401,
+    "unitPrice": 14700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310023702,
+    "unitPrice": 18400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310023702,
+    "unitPrice": 18400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310026502,
+    "unitPrice": 18500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310026502,
+    "unitPrice": 18500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310026702,
+    "unitPrice": 12500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310026702,
+    "unitPrice": 12500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310034502,
+    "unitPrice": 14000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310034502,
+    "unitPrice": 14000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310044403,
+    "unitPrice": 11500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310044403,
+    "unitPrice": 11500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310044601,
+    "unitPrice": 15700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110310044601,
+    "unitPrice": 15700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110410019801,
+    "unitPrice": 19900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110410019801,
+    "unitPrice": 19900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110410019901,
+    "unitPrice": 11600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110410019901,
+    "unitPrice": 11600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110410023602,
+    "unitPrice": 15900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110410023602,
+    "unitPrice": 15900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110410024101,
+    "unitPrice": 18900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110410024101,
+    "unitPrice": 18900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110410049303,
+    "unitPrice": 10500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110410049303,
+    "unitPrice": 10500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110410049702,
+    "unitPrice": 12500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110410049702,
+    "unitPrice": 12500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110410052701,
+    "unitPrice": 10300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12110410052701,
+    "unitPrice": 10300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111310019304,
+    "unitPrice": 12800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111310019304,
+    "unitPrice": 12800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111310020001,
+    "unitPrice": 17500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111310020001,
+    "unitPrice": 17500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111310020003,
+    "unitPrice": 16900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111310020003,
+    "unitPrice": 16900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111310036701,
+    "unitPrice": 16000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111310036701,
+    "unitPrice": 16000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111310046901,
+    "unitPrice": 13900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111310046901,
+    "unitPrice": 13900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111310050401,
+    "unitPrice": 19200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111310050401,
+    "unitPrice": 19200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111310050601,
+    "unitPrice": 10600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111310050601,
+    "unitPrice": 10600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111310055301,
+    "unitPrice": 14200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111310055301,
+    "unitPrice": 14200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111310056601,
+    "unitPrice": 11300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111310056601,
+    "unitPrice": 11300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111410009101,
+    "unitPrice": 16400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111410009101,
+    "unitPrice": 16400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111410011201,
+    "unitPrice": 10600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111410011201,
+    "unitPrice": 10600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111410016301,
+    "unitPrice": 16100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111410016301,
+    "unitPrice": 16100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111410016602,
+    "unitPrice": 16100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111410016602,
+    "unitPrice": 16100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111410018301,
+    "unitPrice": 17900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111410018301,
+    "unitPrice": 17900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111410018602,
+    "unitPrice": 17500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111410018602,
+    "unitPrice": 17500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111410020101,
+    "unitPrice": 11300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12111410020101,
+    "unitPrice": 11300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310013901,
+    "unitPrice": 16700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310013901,
+    "unitPrice": 16700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310014905,
+    "unitPrice": 19700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310014905,
+    "unitPrice": 19700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310015001,
+    "unitPrice": 16400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310015001,
+    "unitPrice": 16400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310015003,
+    "unitPrice": 10300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310015003,
+    "unitPrice": 10300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310015501,
+    "unitPrice": 16200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310015501,
+    "unitPrice": 16200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310015602,
+    "unitPrice": 11300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310015602,
+    "unitPrice": 11300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310017402,
+    "unitPrice": 12800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310017402,
+    "unitPrice": 12800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310051701,
+    "unitPrice": 18800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310051701,
+    "unitPrice": 18800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310051702,
+    "unitPrice": 19600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310051702,
+    "unitPrice": 19600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310054401,
+    "unitPrice": 17300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310054401,
+    "unitPrice": 17300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310055601,
+    "unitPrice": 19600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310055601,
+    "unitPrice": 19600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310056202,
+    "unitPrice": 19600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310056202,
+    "unitPrice": 19600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310057000,
+    "unitPrice": 12500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310057000,
+    "unitPrice": 12500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310061401,
+    "unitPrice": 13200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310061401,
+    "unitPrice": 13200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310061701,
+    "unitPrice": 12900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310061701,
+    "unitPrice": 12900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310081601,
+    "unitPrice": 17900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112310081601,
+    "unitPrice": 17900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410001402,
+    "unitPrice": 17000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410001402,
+    "unitPrice": 17000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410003502,
+    "unitPrice": 16800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410003502,
+    "unitPrice": 16800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410003701,
+    "unitPrice": 11600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410003701,
+    "unitPrice": 11600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410006801,
+    "unitPrice": 15200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410006801,
+    "unitPrice": 15200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410007001,
+    "unitPrice": 17400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410007001,
+    "unitPrice": 17400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410009601,
+    "unitPrice": 10900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410009601,
+    "unitPrice": 10900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410014901,
+    "unitPrice": 10500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410014901,
+    "unitPrice": 10500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410015401,
+    "unitPrice": 15500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410015401,
+    "unitPrice": 15500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410015901,
+    "unitPrice": 17500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410015901,
+    "unitPrice": 17500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410025801,
+    "unitPrice": 10000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410025801,
+    "unitPrice": 10000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410026101,
+    "unitPrice": 10100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12112410026101,
+    "unitPrice": 10100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310001001,
+    "unitPrice": 12400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310001001,
+    "unitPrice": 12400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310002500,
+    "unitPrice": 10100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310002500,
+    "unitPrice": 10100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310003400,
+    "unitPrice": 17100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310003400,
+    "unitPrice": 17100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310005601,
+    "unitPrice": 13600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310005601,
+    "unitPrice": 13600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310006602,
+    "unitPrice": 15100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310006602,
+    "unitPrice": 15100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310010502,
+    "unitPrice": 19600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310010502,
+    "unitPrice": 19600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310010902,
+    "unitPrice": 15300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310010902,
+    "unitPrice": 15300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310022102,
+    "unitPrice": 14600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310022102,
+    "unitPrice": 14600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310022201,
+    "unitPrice": 17500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310022201,
+    "unitPrice": 17500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310022401,
+    "unitPrice": 13500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310022401,
+    "unitPrice": 13500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310023901,
+    "unitPrice": 18600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310023901,
+    "unitPrice": 18600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310024801,
+    "unitPrice": 11300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310024801,
+    "unitPrice": 11300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310025502,
+    "unitPrice": 17600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310025502,
+    "unitPrice": 17600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310025900,
+    "unitPrice": 17100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310025900,
+    "unitPrice": 17100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310026901,
+    "unitPrice": 10900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310026901,
+    "unitPrice": 10900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310033201,
+    "unitPrice": 14800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201310033201,
+    "unitPrice": 14800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410001101,
+    "unitPrice": 15300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410001101,
+    "unitPrice": 15300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410001802,
+    "unitPrice": 10400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410001802,
+    "unitPrice": 10400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410003201,
+    "unitPrice": 18900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410003201,
+    "unitPrice": 18900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410003402,
+    "unitPrice": 11900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410003402,
+    "unitPrice": 11900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410003501,
+    "unitPrice": 16600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410003501,
+    "unitPrice": 16600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410018801,
+    "unitPrice": 19100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410018801,
+    "unitPrice": 19100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410029601,
+    "unitPrice": 13200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410029601,
+    "unitPrice": 13200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410029901,
+    "unitPrice": 18600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410029901,
+    "unitPrice": 18600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410031901,
+    "unitPrice": 19700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410031901,
+    "unitPrice": 19700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410034502,
+    "unitPrice": 17000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410034502,
+    "unitPrice": 17000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410034901,
+    "unitPrice": 12500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12201410034901,
+    "unitPrice": 12500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310001401,
+    "unitPrice": 19100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310001401,
+    "unitPrice": 19100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310001402,
+    "unitPrice": 15700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310001402,
+    "unitPrice": 15700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310002201,
+    "unitPrice": 18900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310002201,
+    "unitPrice": 18900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310003801,
+    "unitPrice": 10700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310003801,
+    "unitPrice": 10700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310004001,
+    "unitPrice": 14400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310004001,
+    "unitPrice": 14400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310004601,
+    "unitPrice": 11200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310004601,
+    "unitPrice": 11200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310010401,
+    "unitPrice": 17500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310010401,
+    "unitPrice": 17500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310010500,
+    "unitPrice": 17000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310010500,
+    "unitPrice": 17000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310013301,
+    "unitPrice": 13200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310013301,
+    "unitPrice": 13200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310015200,
+    "unitPrice": 12400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310015200,
+    "unitPrice": 12400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310022201,
+    "unitPrice": 12100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310022201,
+    "unitPrice": 12100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310027001,
+    "unitPrice": 13700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310027001,
+    "unitPrice": 13700,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310027701,
+    "unitPrice": 10800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310027701,
+    "unitPrice": 10800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310027800,
+    "unitPrice": 10900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310027800,
+    "unitPrice": 10900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310031002,
+    "unitPrice": 10100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310031002,
+    "unitPrice": 10100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310031201,
+    "unitPrice": 17200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310031201,
+    "unitPrice": 17200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310032501,
+    "unitPrice": 11000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310032501,
+    "unitPrice": 11000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310038602,
+    "unitPrice": 11800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310038602,
+    "unitPrice": 11800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310039601,
+    "unitPrice": 18400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310039601,
+    "unitPrice": 18400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310040900,
+    "unitPrice": 17100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310040900,
+    "unitPrice": 17100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310042901,
+    "unitPrice": 13600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310042901,
+    "unitPrice": 13600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310045502,
+    "unitPrice": 17100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310045502,
+    "unitPrice": 17100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310047602,
+    "unitPrice": 15600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310047602,
+    "unitPrice": 15600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310052501,
+    "unitPrice": 17200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310052501,
+    "unitPrice": 17200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310052602,
+    "unitPrice": 10000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310052602,
+    "unitPrice": 10000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310053101,
+    "unitPrice": 11600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310053101,
+    "unitPrice": 11600,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310053200,
+    "unitPrice": 14300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310053200,
+    "unitPrice": 14300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310055501,
+    "unitPrice": 12000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310055501,
+    "unitPrice": 12000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310057102,
+    "unitPrice": 13000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310057102,
+    "unitPrice": 13000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310057702,
+    "unitPrice": 18000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310057702,
+    "unitPrice": 18000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310059600,
+    "unitPrice": 16800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310059600,
+    "unitPrice": 16800,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310059702,
+    "unitPrice": 19900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310059702,
+    "unitPrice": 19900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310064300,
+    "unitPrice": 12200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202310064300,
+    "unitPrice": 12200,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202410001502,
+    "unitPrice": 19400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202410001502,
+    "unitPrice": 19400,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202410002401,
+    "unitPrice": 15500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202410002401,
+    "unitPrice": 15500,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202410003902,
+    "unitPrice": 13000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202410003902,
+    "unitPrice": 13000,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202410005501,
+    "unitPrice": 16900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202410005501,
+    "unitPrice": 16900,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202410009803,
+    "unitPrice": 15100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202410009803,
+    "unitPrice": 15100,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202410013501,
+    "unitPrice": 18300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202410013501,
+    "unitPrice": 18300,
+    "supportedDensity": 0
+  },
+  {
+    "itemId": 12202410018501,
+    "unitPrice": 11300,
+    "supportedDensity": 0
+  }
+]

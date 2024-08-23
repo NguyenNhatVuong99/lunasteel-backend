@@ -1,0 +1,1025 @@
+{
+  "Order": {
+    "userId": "123",
+    "customerId": "456",
+    "properties": "STANDARDS",
+    "totalPrice": "1000",
+    "tax": ["1"],
+    "finalPrice": "950",
+    "orderOffers": []
+  },
+  "OrderDetail": [
+    {
+      "id": "1",
+      "coilId": "coil123",
+      "prices": ["200"],
+      "specialDiscountPrice": {
+        "type": "Percentage",
+        "value": "10"
+      },
+      "specialRebateOffer": {
+        "type": "Cashback",
+        "value": "50"
+      },
+      "finalPrice": "900",
+      "totalPrice": "1000"
+    },
+     {
+      "id": "2",
+      "coilId": "coil123",
+      "prices": ["200"],
+      "specialDiscountPrice": {
+        "type": "Percentage",
+        "value": "10"
+      },
+      "specialRebateOffer": {
+        "type": "Cashback",
+        "value": "50"
+      },
+      "finalPrice": "900",
+      "totalPrice": "1000"
+    },
+     {
+      "id": "3",
+      "coilId": "coil123",
+      "prices": ["200"],
+      "specialDiscountPrice": {
+        "type": "Percentage",
+        "value": "10"
+      },
+      "specialRebateOffer": {
+        "type": "Cashback",
+        "value": "50"
+      },
+      "finalPrice": "900",
+      "totalPrice": "1000"
+    },
+     {
+      "id": "4",
+      "coilId": "coil123",
+      "prices": ["200"],
+      "specialDiscountPrice": {
+        "type": "Percentage",
+        "value": "10"
+      },
+      "specialRebateOffer": {
+        "type": "Cashback",
+        "value": "50"
+      },
+      "finalPrice": "900",
+      "totalPrice": "1000"
+    },
+     {
+      "id": "5",
+      "coilId": "coil123",
+      "prices": ["200"],
+      "specialDiscountPrice": {
+        "type": "Percentage",
+        "value": "10"
+      },
+      "specialRebateOffer": {
+        "type": "Cashback",
+        "value": "50"
+      },
+      "finalPrice": "900",
+      "totalPrice": "1000"
+    }
+
+  ],
+  "ProductPlan": [
+    {
+      "orderDetailId": "1",
+      "estimatedTime": "2024-   08-15",
+      "tolerances": {
+        "thickness": "0.5mm",
+        "size": "100x200",
+        "density": "7.85g/cm3"
+      },
+      "physicoMedical": {
+        "ultimateTensileStrength": "500MPa",
+        "yieldStrength": "250MPa",
+        "elongation": "15%"
+      },
+      "containerPacking": {
+        "core": "Steel",
+        "rollType": "Coil"
+      },
+      "otherRequirements": {
+        "productApplication": "Industrial",
+        "printLine": "Line1",
+        "stamp": "Stamp1",
+        "other": "Additional info",
+        "note": "Special requirements"
+      }
+    },
+    {
+      "orderDetailId": "2",
+      "estimatedTime": "2024-08-15",
+      "tolerances": {
+        "thickness": "0.5mm",
+        "size": "100x200",
+        "density": "7.85g/cm3"
+      },
+      "physicoMedical": {
+        "ultimateTensileStrength": "500MPa",
+        "yieldStrength": "250MPa",
+        "elongation": "15%"
+      },
+      "containerPacking": {
+        "core": "Steel",
+        "rollType": "Coil"
+      },
+      "otherRequirements": {
+        "productApplication": "Industrial",
+        "printLine": "Line1",
+        "stamp": "Stamp1",
+        "other": "Additional info",
+        "note": "Special requirements"
+      }
+    },
+    {
+      "orderDetailId": "3",
+      "estimatedTime": "2024-08-15",
+      "tolerances": {
+        "thickness": "0.5mm",
+        "size": "100x200",
+        "density": "7.85g/cm3"
+      },
+      "physicoMedical": {
+        "ultimateTensileStrength": "500MPa",
+        "yieldStrength": "250MPa",
+        "elongation": "15%"
+      },
+      "containerPacking": {
+        "core": "Steel",
+        "rollType": "Coil"
+      },
+      "otherRequirements": {
+        "productApplication": "Industrial",
+        "printLine": "Line1",
+        "stamp": "Stamp1",
+        "other": "Additional info",
+        "note": "Special requirements"
+      }
+    },
+    {
+      "orderDetailId": "4",
+      "estimatedTime": "2024-08-15",
+      "tolerances": {
+        "thickness": "0.5mm",
+        "size": "100x200",
+        "density": "7.85g/cm3"
+      },
+      "physicoMedical": {
+        "ultimateTensileStrength": "500MPa",
+        "yieldStrength": "250MPa",
+        "elongation": "15%"
+      },
+      "containerPacking": {
+        "core": "Steel",
+        "rollType": "Coil"
+      },
+      "otherRequirements": {
+        "productApplication": "Industrial",
+        "printLine": "Line1",
+        "stamp": "Stamp1",
+        "other": "Additional info",
+        "note": "Special requirements"
+      }
+    },
+    {
+      "orderDetailId": "5",
+      "estimatedTime": "2024-08-15",
+      "tolerances": {
+        "thickness": "0.5mm",
+        "size": "100x200",
+        "density": "7.85g/cm3"
+      },
+      "physicoMedical": {
+        "ultimateTensileStrength": "500MPa",
+        "yieldStrength": "250MPa",
+        "elongation": "15%"
+      },
+      "containerPacking": {
+        "core": "Steel",
+        "rollType": "Coil"
+      },
+      "otherRequirements": {
+        "productApplication": "Industrial",
+        "printLine": "Line1",
+        "stamp": "Stamp1",
+        "other": "Additional info",
+        "note": "Special requirements"
+      }
+    }
+    
+  ],
+  "DeliveryPlan": [
+    {
+      "id": "1",
+      "orderDetailId": "1",
+      "inventoryEtd": "2024-08-10T10:00:00Z",
+      "estimatedTime": "2024-08-12T15:00:00Z",
+      "deliveryMethod": "Luna",
+      "generalInfo": {
+        "specialRequest": "Urgent",
+        "rangeOfVehicle": "Large",
+        "numberOfVehicle": 2
+      },
+      "departure": {
+        "address": "123 Warehouse St",
+        "contact": "John Doe",
+        "phoneNumber": "555-1234"
+      },
+      "destination": {
+        "address": "456 Client Rd",
+        "contact": "Jane Smith",
+        "phoneNumber": "555-5678"
+      },
+      "containerPackaging": {
+        "deliveryMethod": "Standard",
+        "packing": "Box",
+        "containerPackingMethod": "Pallet",
+        "cablesWedges": "Included",
+        "lashingWood": "Included",
+        "moistureProofBag": "Included"
+      },
+      "packing": {
+        "spring": "No",
+        "vclPage": "Yes",
+        "cartonSheet": "Yes",
+        "pipe": "No",
+        "banding": "Yes",
+        "outerWrapper": "Plastic",
+        "innerWrapper": "Paper",
+        "pallet": "Wood",
+        "palletHanding": "Manual",
+        "numberOfHalfMoonbar": 10,
+        "typeOfHalfMoonBar": "Steel",
+        "typeOfPacking": "Standard",
+        "brace": "Yes"
+      }
+    },
+    {
+      "id": "1",
+      "orderDetailId": "1",
+      "inventoryEtd": "2024-08-10T10:00:00Z",
+      "estimatedTime": "2024-08-12T15:00:00Z",
+      "deliveryMethod": "Luna",
+      "generalInfo": {
+        "specialRequest": "Urgent",
+        "rangeOfVehicle": "Large",
+        "numberOfVehicle": 2
+      },
+      "departure": {
+        "address": "123 Warehouse St",
+        "contact": "John Doe",
+        "phoneNumber": "555-1234"
+      },
+      "destination": {
+        "address": "456 Client Rd",
+        "contact": "Jane Smith",
+        "phoneNumber": "555-5678"
+      },
+      "containerPackaging": {
+        "deliveryMethod": "Standard",
+        "packing": "Box",
+        "containerPackingMethod": "Pallet",
+        "cablesWedges": "Included",
+        "lashingWood": "Included",
+        "moistureProofBag": "Included"
+      },
+      "packing": {
+        "spring": "No",
+        "vclPage": "Yes",
+        "cartonSheet": "Yes",
+        "pipe": "No",
+        "banding": "Yes",
+        "outerWrapper": "Plastic",
+        "innerWrapper": "Paper",
+        "pallet": "Wood",
+        "palletHanding": "Manual",
+        "numberOfHalfMoonbar": 10,
+        "typeOfHalfMoonBar": "Steel",
+        "typeOfPacking": "Standard",
+        "brace": "Yes"
+      }
+    },
+    {
+      "id": "1",
+      "orderDetailId": "1",
+      "inventoryEtd": "2024-08-10T10:00:00Z",
+      "estimatedTime": "2024-08-12T15:00:00Z",
+      "deliveryMethod": "Luna",
+      "generalInfo": {
+        "specialRequest": "Urgent",
+        "rangeOfVehicle": "Large",
+        "numberOfVehicle": 2
+      },
+      "departure": {
+        "address": "123 Warehouse St",
+        "contact": "John Doe",
+        "phoneNumber": "555-1234"
+      },
+      "destination": {
+        "address": "456 Client Rd",
+        "contact": "Jane Smith",
+        "phoneNumber": "555-5678"
+      },
+      "containerPackaging": {
+        "deliveryMethod": "Standard",
+        "packing": "Box",
+        "containerPackingMethod": "Pallet",
+        "cablesWedges": "Included",
+        "lashingWood": "Included",
+        "moistureProofBag": "Included"
+      },
+      "packing": {
+        "spring": "No",
+        "vclPage": "Yes",
+        "cartonSheet": "Yes",
+        "pipe": "No",
+        "banding": "Yes",
+        "outerWrapper": "Plastic",
+        "innerWrapper": "Paper",
+        "pallet": "Wood",
+        "palletHanding": "Manual",
+        "numberOfHalfMoonbar": 10,
+        "typeOfHalfMoonBar": "Steel",
+        "typeOfPacking": "Standard",
+        "brace": "Yes"
+      }
+    },
+    {
+      "id": "1",
+      "orderDetailId": "1",
+      "inventoryEtd": "2024-08-10T10:00:00Z",
+      "estimatedTime": "2024-08-12T15:00:00Z",
+      "deliveryMethod": "Luna",
+      "generalInfo": {
+        "specialRequest": "Urgent",
+        "rangeOfVehicle": "Large",
+        "numberOfVehicle": 2
+      },
+      "departure": {
+        "address": "123 Warehouse St",
+        "contact": "John Doe",
+        "phoneNumber": "555-1234"
+      },
+      "destination": {
+        "address": "456 Client Rd",
+        "contact": "Jane Smith",
+        "phoneNumber": "555-5678"
+      },
+      "containerPackaging": {
+        "deliveryMethod": "Standard",
+        "packing": "Box",
+        "containerPackingMethod": "Pallet",
+        "cablesWedges": "Included",
+        "lashingWood": "Included",
+        "moistureProofBag": "Included"
+      },
+      "packing": {
+        "spring": "No",
+        "vclPage": "Yes",
+        "cartonSheet": "Yes",
+        "pipe": "No",
+        "banding": "Yes",
+        "outerWrapper": "Plastic",
+        "innerWrapper": "Paper",
+        "pallet": "Wood",
+        "palletHanding": "Manual",
+        "numberOfHalfMoonbar": 10,
+        "typeOfHalfMoonBar": "Steel",
+        "typeOfPacking": "Standard",
+        "brace": "Yes"
+      }{
+  "Order": {
+    "userId": "123",
+    "customerId": "456",
+    "properties": "STANDARDS",
+    "totalPrice": "1000",
+    "tax": ["1"],
+    "finalPrice": "950",
+    "orderOffers": []
+  },
+  "OrderDetail": [
+    {
+      "id": "1",
+      "coilId": "coil123",
+      "prices": ["200"],
+      "specialDiscountPrice": {
+        "type": "Percentage",
+        "value": "10"
+      },
+      "specialRebateOffer": {
+        "type": "Cashback",
+        "value": "50"
+      },
+      "finalPrice": "900",
+      "totalPrice": "1000"
+    },
+     {
+      "id": "2",
+      "coilId": "coil123",
+      "prices": ["200"],
+      "specialDiscountPrice": {
+        "type": "Percentage",
+        "value": "10"
+      },
+      "specialRebateOffer": {
+        "type": "Cashback",
+        "value": "50"
+      },
+      "finalPrice": "900",
+      "totalPrice": "1000"
+    },
+     {
+      "id": "3",
+      "coilId": "coil123",
+      "prices": ["200"],
+      "specialDiscountPrice": {
+        "type": "Percentage",
+        "value": "10"
+      },
+      "specialRebateOffer": {
+        "type": "Cashback",
+        "value": "50"
+      },
+      "finalPrice": "900",
+      "totalPrice": "1000"
+    },
+     {
+      "id": "4",
+      "coilId": "coil123",
+      "prices": ["200"],
+      "specialDiscountPrice": {
+        "type": "Percentage",
+        "value": "10"
+      },
+      "specialRebateOffer": {
+        "type": "Cashback",
+        "value": "50"
+      },
+      "finalPrice": "900",
+      "totalPrice": "1000"
+    },
+     {
+      "id": "5",
+      "coilId": "coil123",
+      "prices": ["200"],
+      "specialDiscountPrice": {
+        "type": "Percentage",
+        "value": "10"
+      },
+      "specialRebateOffer": {
+        "type": "Cashback",
+        "value": "50"
+      },
+      "finalPrice": "900",
+      "totalPrice": "1000"
+    }
+
+  ],
+  "ProductPlan": [
+    {
+      "orderDetailId": "1",
+      "estimatedTime": "2024-08-15",
+      "tolerances": {
+        "thickness": "0.5mm",
+        "size": "100x200",
+        "density": "7.85g/cm3"
+      },
+      "physicoMedical": {
+        "ultimateTensileStrength": "500MPa",
+        "yieldStrength": "250MPa",
+        "elongation": "15%"
+      },
+      "containerPacking": {
+        "core": "Steel",
+        "rollType": "Coil"
+      },
+      "otherRequirements": {
+        "productApplication": "Industrial",
+        "printLine": "Line1",
+        "stamp": "Stamp1",
+        "other": "Additional info",
+        "note": "Special requirements"
+      }
+    },
+    {
+      "orderDetailId": "2",
+      "estimatedTime": "2024-08-15",
+      "tolerances": {
+        "thickness": "0.5mm",
+        "size": "100x200",
+        "density": "7.85g/cm3"
+      },
+      "physicoMedical": {
+        "ultimateTensileStrength": "500MPa",
+        "yieldStrength": "250MPa",
+        "elongation": "15%"
+      },
+      "containerPacking": {
+        "core": "Steel",
+        "rollType": "Coil"
+      },
+      "otherRequirements": {
+        "productApplication": "Industrial",
+        "printLine": "Line1",
+        "stamp": "Stamp1",
+        "other": "Additional info",
+        "note": "Special requirements"
+      }
+    },
+    {
+      "orderDetailId": "3",
+      "estimatedTime": "2024-08-15",
+      "tolerances": {
+        "thickness": "0.5mm",
+        "size": "100x200",
+        "density": "7.85g/cm3"
+      },
+      "physicoMedical": {
+        "ultimateTensileStrength": "500MPa",
+        "yieldStrength": "250MPa",
+        "elongation": "15%"
+      },
+      "containerPacking": {
+        "core": "Steel",
+        "rollType": "Coil"
+      },
+      "otherRequirements": {
+        "productApplication": "Industrial",
+        "printLine": "Line1",
+        "stamp": "Stamp1",
+        "other": "Additional info",
+        "note": "Special requirements"
+      }
+    },
+    {
+      "orderDetailId": "4",
+      "estimatedTime": "2024-08-15",
+      "tolerances": {
+        "thickness": "0.5mm",
+        "size": "100x200",
+        "density": "7.85g/cm3"
+      },
+      "physicoMedical": {
+        "ultimateTensileStrength": "500MPa",
+        "yieldStrength": "250MPa",
+        "elongation": "15%"
+      },
+      "containerPacking": {
+        "core": "Steel",
+        "rollType": "Coil"
+      },
+      "otherRequirements": {
+        "productApplication": "Industrial",
+        "printLine": "Line1",
+        "stamp": "Stamp1",
+        "other": "Additional info",
+        "note": "Special requirements"
+      }
+    },
+    {
+      "orderDetailId": "5",
+      "estimatedTime": "2024-08-15",
+      "tolerances": {
+        "thickness": "0.5mm",
+        "size": "100x200",
+        "density": "7.85g/cm3"
+      },
+      "physicoMedical": {
+        "ultimateTensileStrength": "500MPa",
+        "yieldStrength": "250MPa",
+        "elongation": "15%"
+      },
+      "containerPacking": {
+        "core": "Steel",
+        "rollType": "Coil"
+      },
+      "otherRequirements": {
+        "productApplication": "Industrial",
+        "printLine": "Line1",
+        "stamp": "Stamp1",
+        "other": "Additional info",
+        "note": "Special requirements"
+      }
+    }
+    
+  ],
+  "DeliveryPlan": [
+    {
+      "id": "1",
+      "orderDetailId": "1",
+      "inventoryEtd": "2024-08-10T10:00:00Z",
+      "estimatedTime": "2024-08-12T15:00:00Z",
+      "deliveryMethod": "Luna",
+      "generalInfo": {
+        "specialRequest": "Urgent",
+        "rangeOfVehicle": "Large",
+        "numberOfVehicle": 2
+      },
+      "departure": {
+        "address": "123 Warehouse St",
+        "contact": "John Doe",
+        "phoneNumber": "555-1234"
+      },
+      "destination": {
+        "address": "456 Client Rd",
+        "contact": "Jane Smith",
+        "phoneNumber": "555-5678"
+      },
+      "containerPackaging": {
+        "deliveryMethod": "Standard",
+        "packing": "Box",
+        "containerPackingMethod": "Pallet",
+        "cablesWedges": "Included",
+        "lashingWood": "Included",
+        "moistureProofBag": "Included"
+      },
+      "packing": {
+        "spring": "No",
+        "vclPage": "Yes",
+        "cartonSheet": "Yes",
+        "pipe": "No",
+        "banding": "Yes",
+        "outerWrapper": "Plastic",
+        "innerWrapper": "Paper",
+        "pallet": "Wood",
+        "palletHanding": "Manual",
+        "numberOfHalfMoonbar": 10,
+        "typeOfHalfMoonBar": "Steel",
+        "typeOfPacking": "Standard",
+        "brace": "Yes"
+      }
+    },
+    {
+      "id": "1",
+      "orderDetailId": "1",
+      "inventoryEtd": "2024-08-10T10:00:00Z",
+      "estimatedTime": "2024-08-12T15:00:00Z",
+      "deliveryMethod": "Luna",
+      "generalInfo": {
+        "specialRequest": "Urgent",
+        "rangeOfVehicle": "Large",
+        "numberOfVehicle": 2
+      },
+      "departure": {
+        "address": "123 Warehouse St",
+        "contact": "John Doe",
+        "phoneNumber": "555-1234"
+      },
+      "destination": {
+        "address": "456 Client Rd",
+        "contact": "Jane Smith",
+        "phoneNumber": "555-5678"
+      },
+      "containerPackaging": {
+        "deliveryMethod": "Standard",
+        "packing": "Box",
+        "containerPackingMethod": "Pallet",
+        "cablesWedges": "Included",
+        "lashingWood": "Included",
+        "moistureProofBag": "Included"
+      },
+      "packing": {
+        "spring": "No",
+        "vclPage": "Yes",
+        "cartonSheet": "Yes",
+        "pipe": "No",
+        "banding": "Yes",
+        "outerWrapper": "Plastic",
+        "innerWrapper": "Paper",
+        "pallet": "Wood",
+        "palletHanding": "Manual",
+        "numberOfHalfMoonbar": 10,
+        "typeOfHalfMoonBar": "Steel",
+        "typeOfPacking": "Standard",
+        "brace": "Yes"
+      }
+    },
+    {
+      "id": "1",
+      "orderDetailId": "1",
+      "inventoryEtd": "2024-08-10T10:00:00Z",
+      "estimatedTime": "2024-08-12T15:00:00Z",
+      "deliveryMethod": "Luna",
+      "generalInfo": {
+        "specialRequest": "Urgent",
+        "rangeOfVehicle": "Large",
+        "numberOfVehicle": 2
+      },
+      "departure": {
+        "address": "123 Warehouse St",
+        "contact": "John Doe",
+        "phoneNumber": "555-1234"
+      },
+      "destination": {
+        "address": "456 Client Rd",
+        "contact": "Jane Smith",
+        "phoneNumber": "555-5678"
+      },
+      "containerPackaging": {
+        "deliveryMethod": "Standard",
+        "packing": "Box",
+        "containerPackingMethod": "Pallet",
+        "cablesWedges": "Included",
+        "lashingWood": "Included",
+        "moistureProofBag": "Included"
+      },
+      "packing": {
+        "spring": "No",
+        "vclPage": "Yes",
+        "cartonSheet": "Yes",
+        "pipe": "No",
+        "banding": "Yes",
+        "outerWrapper": "Plastic",
+        "innerWrapper": "Paper",
+        "pallet": "Wood",
+        "palletHanding": "Manual",
+        "numberOfHalfMoonbar": 10,
+        "typeOfHalfMoonBar": "Steel",
+        "typeOfPacking": "Standard",
+        "brace": "Yes"
+      }
+    },
+    {
+      "id": "1",
+      "orderDetailId": "1",
+      "inventoryEtd": "2024-08-10T10:00:00Z",
+      "estimatedTime": "2024-08-12T15:00:00Z",
+      "deliveryMethod": "Luna",
+      "generalInfo": {
+        "specialRequest": "Urgent",
+        "rangeOfVehicle": "Large",
+        "numberOfVehicle": 2
+      },
+      "departure": {
+        "address": "123 Warehouse St",
+        "contact": "John Doe",
+        "phoneNumber": "555-1234"
+      },
+      "destination": {
+        "address": "456 Client Rd",
+        "contact": "Jane Smith",
+        "phoneNumber": "555-5678"
+      },
+      "containerPackaging": {
+        "deliveryMethod": "Standard",
+        "packing": "Box",
+        "containerPackingMethod": "Pallet",
+        "cablesWedges": "Included",
+        "lashingWood": "Included",
+        "moistureProofBag": "Included"
+      },
+      "packing": {
+        "spring": "No",
+        "vclPage": "Yes",
+        "cartonSheet": "Yes",
+        "pipe": "No",
+        "banding": "Yes",
+        "outerWrapper": "Plastic",
+        "innerWrapper": "Paper",
+        "pallet": "Wood",
+        "palletHanding": "Manual",
+        "numberOfHalfMoonbar": 10,
+        "typeOfHalfMoonBar": "Steel",
+        "typeOfPacking": "Standard",
+        "brace": "Yes"
+      }
+    },
+    {
+      "id": "1",
+      "orderDetailId": "1",
+      "inventoryEtd": "2024-08-10T10:00:00Z",
+      "estimatedTime": "2024-08-12T15:00:00Z",
+      "deliveryMethod": "Luna",
+      "generalInfo": {
+        "specialRequest": "Urgent",
+        "rangeOfVehicle": "Large",
+        "numberOfVehicle": 2
+      },
+      "departure": {
+        "address": "123 Warehouse St",
+        "contact": "John Doe",
+        "phoneNumber": "555-1234"
+      },
+      "destination": {
+        "address": "456 Client Rd",
+        "contact": "Jane Smith",
+        "phoneNumber": "555-5678"
+      },
+      "containerPackaging": {
+        "deliveryMethod": "Standard",
+        "packing": "Box",
+        "containerPackingMethod": "Pallet",
+        "cablesWedges": "Included",
+        "lashingWood": "Included",
+        "moistureProofBag": "Included"
+      },
+      "packing": {
+        "spring": "No",
+        "vclPage": "Yes",
+        "cartonSheet": "Yes",
+        "pipe": "No",
+        "banding": "Yes",
+        "outerWrapper": "Plastic",
+        "innerWrapper": "Paper",
+        "pallet": "Wood",
+        "palletHanding": "Manual",
+        "numberOfHalfMoonbar": 10,
+        "typeOfHalfMoonBar": "Steel",
+        "typeOfPacking": "Standard",
+        "brace": "Yes"
+      }
+    },
+    {
+      "id": "1",
+      "orderDetailId": "1",
+      "inventoryEtd": "2024-08-10T10:00:00Z",
+      "estimatedTime": "2024-08-12T15:00:00Z",
+      "deliveryMethod": "Luna",
+      "generalInfo": {
+        "specialRequest": "Urgent",
+        "rangeOfVehicle": "Large",
+        "numberOfVehicle": 2
+      },
+      "departure": {
+        "address": "123 Warehouse St",
+        "contact": "John Doe",
+        "phoneNumber": "555-1234"
+      },
+      "destination": {
+        "address": "456 Client Rd",
+        "contact": "Jane Smith",
+        "phoneNumber": "555-5678"
+      },
+      "containerPackaging": {
+        "deliveryMethod": "Standard",
+        "packing": "Box",
+        "containerPackingMethod": "Pallet",
+        "cablesWedges": "Included",
+        "lashingWood": "Included",
+        "moistureProofBag": "Included"
+      },
+      "packing": {
+        "spring": "No",
+        "vclPage": "Yes",
+        "cartonSheet": "Yes",
+        "pipe": "No",
+        "banding": "Yes",
+        "outerWrapper": "Plastic",
+        "innerWrapper": "Paper",
+        "pallet": "Wood",
+        "palletHanding": "Manual",
+        "numberOfHalfMoonbar": 10,
+        "typeOfHalfMoonBar": "Steel",
+        "typeOfPacking": "Standard",
+        "brace": "Yes"
+      }
+    }
+  ],
+  "PaymentPlan": [
+    {
+      "totalPrice": "1000",
+      "plans": [
+        {
+          "name": "Plan A",
+          "paymentTerm": "30 days",
+          "schedules": [
+            {
+              "paymentDate": "2024-08-10T10:00:00Z",
+              "paymentAmount": "500",
+              "paymentType": "Deposit",
+              "isPaid": false
+            },
+            {
+              "paymentDate": "2024-08-30T10:00:00Z",
+              "paymentAmount": "500",
+              "paymentType": "Final",
+              "isPaid": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+      "orderDetailId": "1",
+      "inventoryEtd": "2024-08-10T10:00:00Z",
+      "estimatedTime": "2024-08-12T15:00:00Z",
+      "deliveryMethod": "Luna",
+      "generalInfo": {
+        "specialRequest": "Urgent",
+        "rangeOfVehicle": "Large",
+        "numberOfVehicle": 2
+      },
+      "departure": {
+        "address": "123 Warehouse St",
+        "contact": "John Doe",
+        "phoneNumber": "555-1234"
+      },
+      "destination": {
+        "address": "456 Client Rd",
+        "contact": "Jane Smith",
+        "phoneNumber": "555-5678"
+      },
+      "containerPackaging": {
+        "deliveryMethod": "Standard",
+        "packing": "Box",
+        "containerPackingMethod": "Pallet",
+        "cablesWedges": "Included",
+        "lashingWood": "Included",
+        "moistureProofBag": "Included"
+      },
+      "packing": {
+        "spring": "No",
+        "vclPage": "Yes",
+        "cartonSheet": "Yes",
+        "pipe": "No",
+        "banding": "Yes",
+        "outerWrapper": "Plastic",
+        "innerWrapper": "Paper",
+        "pallet": "Wood",
+        "palletHanding": "Manual",
+        "numberOfHalfMoonbar": 10,
+        "typeOfHalfMoonBar": "Steel",
+        "typeOfPacking": "Standard",
+        "brace": "Yes"
+      }
+    },
+    {
+      "id": "1",
+      "orderDetailId": "1",
+      "inventoryEtd": "2024-08-10T10:00:00Z",
+      "estimatedTime": "2024-08-12T15:00:00Z",
+      "deliveryMethod": "Luna",
+      "generalInfo": {
+        "specialRequest": "Urgent",
+        "rangeOfVehicle": "Large",
+        "numberOfVehicle": 2
+      },
+      "departure": {
+        "address": "123 Warehouse St",
+        "contact": "John Doe",
+        "phoneNumber": "555-1234"
+      },
+      "destination": {
+        "address": "456 Client Rd",
+        "contact": "Jane Smith",
+        "phoneNumber": "555-5678"
+      },
+      "containerPackaging": {
+        "deliveryMethod": "Standard",
+        "packing": "Box",
+        "containerPackingMethod": "Pallet",
+        "cablesWedges": "Included",
+        "lashingWood": "Included",
+        "moistureProofBag": "Included"
+      },
+      "packing": {
+        "spring": "No",
+        "vclPage": "Yes",
+        "cartonSheet": "Yes",
+        "pipe": "No",
+        "banding": "Yes",
+        "outerWrapper": "Plastic",
+        "innerWrapper": "Paper",
+        "pallet": "Wood",
+        "palletHanding": "Manual",
+        "numberOfHalfMoonbar": 10,
+        "typeOfHalfMoonBar": "Steel",
+        "typeOfPacking": "Standard",
+        "brace": "Yes"
+      }
+    }
+  ],
+  "PaymentPlan": [
+    {
+      "totalPrice": "1000",
+      "plans": [
+        {
+          "name": "Plan A",
+          "paymentTerm": "30 days",
+          "schedules": [
+            {
+              "paymentDate": "2024-08-10T10:00:00Z",
+              "paymentAmount": "500",
+              "paymentType": "Deposit",
+              "isPaid": false
+            },
+            {
+              "paymentDate": "2024-08-30T10:00:00Z",
+              "paymentAmount": "500",
+              "paymentType": "Final",
+              "isPaid": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
